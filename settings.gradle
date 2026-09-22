@@ -1,0 +1,6 @@
+rootProject.name = 'hexagonal-hsa-poc'
+
+include 'domain'
+include 'web'
+include 'postcode'
+include 'application'
